@@ -861,6 +861,16 @@ section {
   }
 }
 
+@media (max-width: 460px) {
+  .header .logo h1 {
+    font-size: 15px;
+  }
+
+  .footer .footer-info .logo #footer-logo-txt {
+    font-size: 15px;
+  }
+}
+
 .features .features-item h3 {
   font-weight: 600;
   font-size: 26px;
