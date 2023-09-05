@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Name: ShriMataVaishnoPackersAndMovers
+URL: https://potter-arjun.github.io/ShriMataVaishnoPackersAndMovers/
 
-Template Name: Logis
-Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
