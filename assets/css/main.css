@@ -290,12 +290,12 @@ section {
 
 .header.sticked {
   background: rgba(14, 29, 52, 0.9);
-  padding: 15px 0;
+  padding: 0px 0 !important;
   box-shadow: 0px 2px 20px rgba(14, 29, 52, 0.1);
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 100px;
   margin-right: 6px;
 }
 
@@ -868,6 +868,10 @@ section {
 
   .footer .footer-info .logo #footer-logo-txt {
     font-size: 15px;
+  }
+
+  .header .logo img {
+    max-height: 90px;
   }
 }
 
